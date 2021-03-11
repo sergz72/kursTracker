@@ -1,0 +1,33 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.sz.kurstracker.MainActivity">
+    <group android:id="@+id/grp1">
+        <item
+            android:id="@+id/action_settings"
+            android:title="@string/action_settings"
+            app:showAsAction="never" />
+    </group>
+    <group android:id="@+id/grp2">
+        <item
+            android:id="@+id/action_oneday"
+            android:title="@string/action_oneday"
+            app:showAsAction="never" />
+        <item
+            android:id="@+id/action_twodays"
+            android:title="@string/action_twodays"
+            app:showAsAction="never" />
+        <item
+            android:id="@+id/action_oneweek"
+            android:title="@string/action_oneweek"
+            app:showAsAction="never" />
+        <item
+            android:id="@+id/action_twoweeks"
+            android:title="@string/action_twoweeks"
+            app:showAsAction="never" />
+        <item
+            android:id="@+id/action_onemonth"
+            android:title="@string/action_onemonth"
+            app:showAsAction="never" />
+    </group>
+</menu>

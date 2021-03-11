@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Kurs tracker</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_oneday">1 day kurs data</string>
+    <string name="action_twodays">2 days kurs data</string>
+    <string name="action_oneweek">1 week kurs data</string>
+    <string name="action_twoweeks">2 weeks kurs data</string>
+    <string name="action_onemonth">1 month kurs data</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <string name="pref_title_server_name">Server name</string>
+
+    <string name="usd">USD</string>
+    <string name="eur">EUR</string>
+    <string name="domainTitle">Bank</string>
+</resources>
